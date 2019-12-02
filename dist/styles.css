@@ -1,0 +1,23 @@
+.oveflow {
+  overflow: hidden;
+}
+.alert {
+  list-style: none;
+
+}
+
+ul {
+  padding: 0;
+}
+.comments-form {
+  background-color: #F2F2F2;
+  padding: 20px;
+}
+#addname {
+  width: 500px;
+}
+
+.form-mistake {
+  color: red;
+  font-size: 20px;
+}
